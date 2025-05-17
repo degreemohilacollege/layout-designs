@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+}
+
+.second-left{
+   
+    width: 70%;
+    float: left;
+}
+.second-right{
+    height: 600px;
+    width: 30%;
+    overflow: hidden;
+    
+}
+
+.third-top{
+   height: 200px;
+   background: #acfeb5;
+}
+.third-bootom{
+  height: 300px;
+  background: #7092BE;
+}
+
+.forth-bootom{
+  height: 200px;
+  background:gray;
+}
+
+
+.fift-left{
+  height: 300px;
+  background: red;
+  width: 50%;
+  float: left;
+}
+.fift-right{
+    height: 400px;
+    background: orange;
+    width: 50%;
+    overflow: hidden;
+}
+.footer-left{
+    height: 100px;
+    background:#fff;
+    width: 20%;
+    float: left;
+}
+.footer-right{
+   height: 100px;
+   background:#B97A57;
+   width: 80%;
+   overflow: hidden;
+}
